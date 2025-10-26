@@ -1,0 +1,43 @@
+# REQUIREMENTS.TXT - Loan Default Prediction Project
+
+# Core Data Science Libraries
+
+numpy>=1.21.0,<2.0.0
+pandas>=1.3.0,<2.0.0
+scikit-learn>=1.0.0,<1.4.0
+
+# Deep Learning Framework
+
+torch>=1.10.0,<3.0.0
+torchvision>=0.11.0,<1.0.0
+
+# Visualization
+
+matplotlib>=3.4.0,<4.0.0
+seaborn>=0.11.0,<1.0.0
+
+# Jupyter Environment
+
+jupyter>=1.0.0
+notebook>=6.4.0,<7.0.0
+ipykernel>=6.0.0
+
+# Progress Bars
+
+tqdm>=4.62.0
+
+# Data Processing Utilities
+
+openpyxl>=3.0.0  # For Excel file support (if needed)
+
+# Optional but Recommended
+
+# tensorboard>=2.8.0  # For training visualization
+# plotly>=5.0.0       # Interactive plots
+# ipywidgets>=7.6.0   # Interactive notebook widgets
+
+# Development Tools (Optional)
+
+# pytest>=7.0.0       # Unit testing
+# black>=22.0.0       # Code formatting
+# flake8>=4.0.0       # Linting
